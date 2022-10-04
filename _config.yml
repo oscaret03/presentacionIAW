@@ -4,5 +4,4 @@ plugins:
 gem "github-pages", group: :jekyll_plugins
 title: [mi primera pagina]
 description: [descripcion de la pagina]
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+
