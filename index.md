@@ -5,3 +5,5 @@ Netflix, Inc. es una empresa de entretenimiento y una plataforma de streaming es
 ________________________________________________________________________________________________________
 [IMAGEN](https://www.giztele.com/wp-content/uploads/2022/07/Netflix.jpg)
 
+./miprimera_pagina.md
+./misegunda_pagina.md
