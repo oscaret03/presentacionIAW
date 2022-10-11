@@ -1,5 +1,5 @@
-#PELICULAS
-##CATEGORIAS
+# PELICULAS  
+## CATEGORIAS
 * Acción y aventura
 * Anime
 * Peliculas par toda la familia
